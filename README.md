@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @aldymartinus.
 - 👀 I’m interested in Web Development and Coding Challenge.
-- 🌱 I’m currently learning Data Structure and Algorithm using Go.
+- 🌱 I’m currently learning Data Structure and Algorithm with Go.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldymartinus&layout=compact&theme=tokyonight)]( )
 
