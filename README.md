@@ -8,7 +8,7 @@
 - 🗣️ I can speak
     - 🇮🇩 Indonesian
     - 🇬🇧 English
-    - 🇨🇳 Mandarin
+    - 🇨🇳 Chinese
 - 💻 Comfortable with
     - Javascript, Typescript
     - Node JS
