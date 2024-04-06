@@ -19,5 +19,5 @@
 
 ### Current Working Environment 🖥️
 - Operating System `Endeavour OS`
-- Terminal `suckless terminal` with `Oh My Fish!`
+- Terminal `suckless simple terminal` with `Oh My Fish!`
 - Text Editor `Visual Studio Code`
