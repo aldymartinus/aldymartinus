@@ -16,7 +16,7 @@
     - Javascript, Typescript
     - Node JS
     - HTML
-    - CSS
+    - CSS, Tailwind CSS
   
 ---
 
